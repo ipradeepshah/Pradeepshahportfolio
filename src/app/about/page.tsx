@@ -24,7 +24,7 @@ export default function About() {
       {/* Bio Section */}
       <motion.section className="mb-16" {...fadeInUp}>
         <p className="text-lg text-secondary max-w-3xl mx-auto text-center">
-          I&apos;m a passionate Full Stack Developer with expertise in building
+          I&apos;m a passionate Computer Engineer & Full Stack Developer with expertise in building
           modern web applications. With a strong foundation in both frontend and
           backend technologies, I create seamless user experiences and robust
           server-side solutions.
