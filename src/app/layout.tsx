@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Devfolio | Portfolio Website using Next.js, Tailwind CSS, and Framer Motion",
-  description: "Devfolio is a portfolio website for developers to showcase their projects and skills.",
+  title: "Pradeep Shah ",
+  description: " a passionate Full Stack Developer with expertise in building modern web applications. With a strong foundation in both frontend and backend technologies, I create seamless user experiences and robust server-side solutions.",
 };
 
 export default function RootLayout({

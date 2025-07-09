@@ -29,7 +29,7 @@ export default function Hero() {
               {...fadeIn}
               transition={{ delay: 0.8 }}
             >
-              Er. Pradeep Shah
+              Pradeep Shah
             </motion.span>
           </motion.h1>
           <motion.p 
