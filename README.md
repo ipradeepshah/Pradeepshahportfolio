@@ -1,6 +1,6 @@
 # Pradeep Shah
 
-Devfolio is a portfolio website built using Next.js, Tailwind CSS, and Framer Motion. It allows developers to showcase their projects, skills, and blogs in a visually appealing manner.
+Portfolio website built using Next.js, Tailwind CSS, and Framer Motion. It allows developers to showcase their projects, skills, and blogs in a visually appealing manner.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Devfolio is a portfolio website built using Next.js, Tailwind CSS, and Framer Mo
 
 ## Installation
 
-To get started with Devfolio, follow these steps:
+To get started , follow these steps:
 
 1. **Clone the repository:**
 
@@ -66,8 +66,4 @@ To get started with Devfolio, follow these steps:
    npm start
    ```
 
-## Usage
-The Devfolio project is structured to be intuitive and easy to navigate.
-
-By understanding the structure and components of Devfolio, you can easily customize and extend the project to fit your needs.
 
