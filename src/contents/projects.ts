@@ -22,9 +22,9 @@ export const projects: Project[] = [
         title: 'Portfolio Website',
         description: 'My personal portfolio website showcasing my projects and skills.',
         technologies: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
-        githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
-        image: '/projects/portfolio-website.jpg',
+        githubLink: 'https://github.com/ipradeepshah/Pradeepshahportfolio',
+        demoLink: 'https://pradeepshah.com.np',
+        image: '/projects/portfolio-website.png',
       },
       {
         title: 'Blog Platform',
@@ -38,8 +38,8 @@ export const projects: Project[] = [
         title: 'Weather App',
         description: 'A weather application that provides real-time weather updates.',
         technologies: ['React', 'OpenWeatherMap API'],
-        githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
+        githubLink: 'https://github.com/ipradeepshah/Weather-app-react',
+        demoLink: 'https://ipradeepshah.github.io/Weather-app-react/',
         image: '/projects/weather-app.png',
       },
       {
@@ -51,12 +51,12 @@ export const projects: Project[] = [
         image: '/projects/chat-app.png',
       },
       {
-        title: 'Recipe Finder',
-        description: 'A recipe search application using the Edamam API.',
-        technologies: ['React', 'Edamam API'],
-        githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
-        image: '/projects/recipe-finder.png',
+        title: 'Analog Clock',
+        description: 'A simple analog clock which displays the current time.',
+        technologies: ['HTML', 'CSS', 'JavaScript'],
+        githubLink: 'https://github.com/ipradeepshah/Analog-Clock',
+        demoLink: 'https://ipradeepshah.github.io/Analog-Clock/',
+        image: '/projects/analog-clock.png',
       },
       {
         title: 'Expense Tracker',
@@ -65,5 +65,13 @@ export const projects: Project[] = [
         githubLink: 'https://github.com',
         demoLink: 'https://demo.com',
         image: '/projects/expense-tracker.webp',
+      },
+      {
+        title: 'Calculator App',
+        description: 'A simple calculator application with basic arithmetic operations.',
+        technologies: ['HTML', 'CSS', 'JavaScript'],
+        githubLink: 'https://github.com/ipradeepshah/Calculator',
+        demoLink: 'https://ipradeepshah.github.io/Calculator/',
+        image: '/projects/Calculator.png',
       }
   ];
