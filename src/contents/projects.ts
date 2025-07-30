@@ -72,6 +72,6 @@ export const projects: Project[] = [
         technologies: ['HTML', 'CSS', 'JavaScript'],
         githubLink: 'https://github.com/ipradeepshah/Calculator',
         demoLink: 'https://ipradeepshah.github.io/Calculator/',
-        image: '/projects/Calculator.png',
+        image: '/projects/calculator.png',
       }
   ];
