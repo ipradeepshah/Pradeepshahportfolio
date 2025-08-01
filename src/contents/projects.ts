@@ -59,12 +59,12 @@ export const projects: Project[] = [
         image: '/projects/analog-clock.png',
       },
       {
-        title: 'Expense Tracker',
-        description: 'A personal finance tracker to manage expenses and income.',
+        title: 'AI Chat Hub',
+        description: 'AI Chat Hub is an advanced AI-powered chat application built with the latest web technologies.',
         technologies: ['React', 'Firebase'],
-        githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
-        image: '/projects/expense-tracker.webp',
+        githubLink: 'https://github.com/ipradeepshah/ai-chat-hub-project',
+        demoLink: 'https://ai-chat-hub-project-ji0dvdl5g-pradeep-shahs-projects.vercel.appp',
+        image: '/projects/ai-chat-hub.png',
       },
       {
         title: 'Calculator App',
