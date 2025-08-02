@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { FaFacebook, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 import { fadeInUp, fadeIn, scaleIn } from '@/utils/animations';
-import { FaInstagram } from 'react-icons/fa6';
+import { FaDownload, FaInstagram } from 'react-icons/fa6';
 
 export default function Hero() {
   return (
@@ -126,6 +126,20 @@ export default function Hero() {
                 Contact Me
               </Link>
             </motion.div>
+             <motion.div
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              <Link
+                href="./projects/pdf/Pradeep-Shah-CV.pdf"
+                className=" bg-primary inline-block  w-full md:w-auto text-white px-8 py-3 rounded-lg hover:bg-primary/90 transition-colors  "
+                target='_blank'
+              >
+                 Resume <FaDownload className="inline ml-2" />
+                
+              </Link>
+            </motion.div>
+            
           </motion.div>
         </div>
       </div>
