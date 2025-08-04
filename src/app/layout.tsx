@@ -1,5 +1,6 @@
 
 import type { Metadata } from "next";
+import Head from "./head";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "./context/ThemeContext";
@@ -57,6 +58,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta name="google-site-verification" content="ojrMCa-WpK0Vy08VcOeDGmV6KMrBtlUueQNTUqZs8To" />
+        </head>
+        
+        
+        
     <body className={`bg-white transition-colors dark:bg-gray-900 dark:text-white ${geistSans.variable} ${geistMono.variable}`}>
         <ThemeProvider>
           <Navbar />
