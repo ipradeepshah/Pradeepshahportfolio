@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   description: " a passionate Full Stack Developer with expertise in building modern web applications. With a strong foundation in both frontend and backend technologies, I create seamless user experiences and robust server-side solutions.",
   keywords: [
     "Pradeep Shah",
+    "Engineer",
     "Full Stack Developer",
     "Web Developer",
     "Software Engineer",
