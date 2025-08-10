@@ -43,12 +43,12 @@ export const projects: Project[] = [
         image: '/projects/weather-app.png',
       },
       {
-        title: 'Chat Application',
-        description: 'A real-time chat application using WebSocket technology.',
-        technologies: ['React', 'Node.js', 'Socket.io'],
-        githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
-        image: '/projects/chat-app.png',
+        title: 'HungUp-Social Media App',
+        description: 'A social media application with features like posts, messages, stories, and more.',
+        technologies: ['React', 'Node.js', 'Socket.io' , 'MongoDB', 'Clerk'],
+        githubLink: 'https://github.com/ipradeepshah/HangUp-Full-Featured-Social-Media-Web-Application.git',
+        demoLink: 'https://github.com/ipradeepshah/HangUp-Full-Featured-Social-Media-Web-Application.git',
+        image: '/projects/hangup.png',
       },
       {
         title: 'Analog Clock',
