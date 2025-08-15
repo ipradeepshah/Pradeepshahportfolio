@@ -3,22 +3,7 @@ import { Project } from "@/types";
 
 export const projects: Project[] = [
     {
-        title: 'E-commerce Platform',
-        description: 'A full-stack e-commerce platform built with Next.js, TypeScript, and Tailwind CSS.',
-        technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Stripe'],
-        githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
-        image: '/projects/e-commerce-website.png',
-      },
-      {
-        title: 'Task Management App',
-        description: 'A collaborative task management application with real-time updates.',
-        technologies: ['React', 'Node.js', 'MongoDB', 'Socket.io'],
-        githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
-        image: '/projects/task-manager.webp',
-      },
-      {
+        
         title: 'Portfolio Website',
         description: 'My personal portfolio website showcasing my projects and skills.',
         technologies: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
@@ -26,14 +11,7 @@ export const projects: Project[] = [
         demoLink: 'https://pradeepshah.com.np',
         image: '/projects/portfolio-website.png',
       },
-      {
-        title: 'Blog Platform',
-        description: 'A blogging platform with user authentication and markdown support.',
-        technologies: ['Gatsby', 'GraphQL', 'Contentful'],
-        githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
-        image: '/projects/blog-website.jpeg',
-      },
+      
       {
         title: 'Weather App',
         description: 'A weather application that provides real-time weather updates.',
@@ -63,7 +41,7 @@ export const projects: Project[] = [
         description: 'AI Chat Hub is an advanced AI-powered chat application built with the latest web technologies.',
         technologies: ['React', 'Firebase'],
         githubLink: 'https://github.com/ipradeepshah/ai-chat-hub-project',
-        demoLink: 'https://ai-chat-hub-project-ji0dvdl5g-pradeep-shahs-projects.vercel.appp',
+        demoLink: 'https://ai-chat-hub-project-ji0dvdl5g-pradeep-shahs-projects.vercel.app/',
         image: '/projects/ai-chat-hub.png',
       },
       {
