@@ -40,7 +40,6 @@ export default function Head() {
             "jobTitle": "IT Support Engineer & Cybersecurity Enthusiast",
             "url": "https://pradeepshahportfolio.vercel.app",
             "sameAs": [
-              "https://github.com/ipradeepshah",
               "https://www.linkedin.com/in/ipradeepshah/",
               "https://www.facebook.com/ipradeepshah/",
               "https://www.instagram.com/i_pradeepshah/",
