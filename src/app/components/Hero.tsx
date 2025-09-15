@@ -37,7 +37,7 @@ export default function Hero() {
             {...fadeInUp}
             transition={{ delay: 0.4 }}
           >
-            Computer Engineer | Full Stack Developer | Open Source Contributor
+            IT Support Engineer | Cybersecurity Enthusiast
           </motion.p>
           <motion.div 
             className="flex justify-center space-x-4 mb-8"
