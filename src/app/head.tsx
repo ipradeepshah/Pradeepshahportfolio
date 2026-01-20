@@ -8,7 +8,7 @@ export default function Head() {
       <title>Pradeep Shah - IT Support Engineer & Cybersecurity Enthusiast</title>
       <meta
         name="description"
-        content="Pradeep Shah is an IT Support Engineer and Cybersecurity Enthusiast offering IT troubleshooting services, Microsoft 365 setup, and network troubleshooting."
+        content="Pradeep Shah — a passionate Full Stack Developer and Cybersecurity Enthusiast sharing insights on modern web technologies, IT support, and digital security. Explore my projects, blogs, and tutorials designed to help you grow in the tech world"
       />
       <meta
         name="keywords"

@@ -89,7 +89,7 @@ export default function About() {
         </motion.div>
       </motion.section>
 
-      {/* Experience Section */}
+      {/* Experience Section
       <motion.section className="mb-16" {...fadeIn} transition={{ delay: 0.4 }}>
         <motion.h2 className="section-title" {...fadeInUp}>
           Experience
@@ -98,9 +98,9 @@ export default function About() {
           className="max-w-3xl mx-auto space-y-8"
           variants={staggerContainer}
           initial="initial"
-          animate="animate"
-        >
-          <motion.div
+          animate="animate" 
+        >*/}
+          {/* <motion.div
             className="bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md"
             variants={fadeInUp}
             {...cardHoverSmall}
@@ -121,9 +121,9 @@ export default function About() {
                 Optimized application performance, reducing load times by 30%
               </li>
             </ul>
-          </motion.div>
+          </motion.div> */}
 
-          <motion.div
+          {/* <motion.div
             className="bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md"
             variants={fadeInUp}
             {...cardHoverSmall}
@@ -144,7 +144,7 @@ export default function About() {
             </ul>
           </motion.div>
         </motion.div>
-      </motion.section>
+      </motion.section> */}
 
       {/* Education Section */}
       <motion.section {...fadeIn} transition={{ delay: 0.6 }}>
